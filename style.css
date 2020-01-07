@@ -1,35 +1,13 @@
-* {
-    color: #484e53;
-    margin: 10px;
-}
 
+h1, h2, h3{
+    color: #484e53;
+}
 hr {
     background-color: #8798ad;
     height: 5px;
 }
-
-.real {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-}
 .visuel{
-    width:350px;
+    width:355px;
     height: 200px;
 }
-.projet{
-    display: flex;
-    flex-direction: column;
-}
-.soustexte{
-    display: inline-flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-.consult {
-    padding: 8px 10px;
-    text-align: center;
-    color: #fff;
-    border-radius: 5px;
-    background-color: #484e53;
-}
+
