@@ -4,17 +4,27 @@
 }
 
 hr {
-    color: #8798ad;
-    size: 3em;
+    background-color: #8798ad;
+    height: 5px;
 }
 
 .real {
     display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
-.bande{
-  background-image: url(img/bande.png);
-  background-size: cover;
-
+.visuel{
+    width:350px;
+    height: 200px;
+}
+.projet{
+    display: flex;
+    flex-direction: column;
+}
+.soustexte{
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 .consult {
     padding: 8px 10px;
@@ -22,5 +32,4 @@ hr {
     color: #fff;
     border-radius: 5px;
     background-color: #484e53;
-
 }
