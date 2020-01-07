@@ -1,0 +1,26 @@
+* {
+    color: #484e53;
+    margin: 10px;
+}
+
+hr {
+    color: #8798ad;
+    size: 3em;
+}
+
+.real {
+    display: flex;
+}
+.bande{
+  background-image: url(img/bande.png);
+  background-size: cover;
+
+}
+.consult {
+    padding: 8px 10px;
+    text-align: center;
+    color: #fff;
+    border-radius: 5px;
+    background-color: #484e53;
+
+}
