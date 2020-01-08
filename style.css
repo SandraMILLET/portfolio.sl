@@ -1,8 +1,12 @@
 
-h1, h2, h3, p{
+h1, h2, h3,h4, p{
     color: #484e53;
 }
 hr {
     background-color: #8798ad;
     height: 5px;
 }
+.text{
+    padding-bottom: 20px;
+}
+
