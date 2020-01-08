@@ -1,13 +1,8 @@
 
-h1, h2, h3{
+h1, h2, h3, p{
     color: #484e53;
 }
 hr {
     background-color: #8798ad;
     height: 5px;
 }
-.visuel{
-    width:355px;
-    height: 200px;
-}
-
